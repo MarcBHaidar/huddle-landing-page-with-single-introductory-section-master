@@ -22,7 +22,9 @@ Users should be able to:
 
 ### Screenshot
 
-![](./screenshot.jpg)
+![](https://github.com/MarcBHaidar/huddle-landing-page-with-single-introductory-section-master/blob/main/images/desktop-design.jpg)
+![](https://github.com/MarcBHaidar/huddle-landing-page-with-single-introductory-section-master/blob/main/images/mobile-design.jpg)
+
 
 ### Links
 
